@@ -178,10 +178,34 @@ class __init__(self)
 
 * has-a 描述组合关系
 
+31. 隐式继承 implicit inheritance
+19.py
+
+32.  继承
+
+* 方法解析顺序 method resolution order  MRO
+
+* super __init__
+
+```python
+super(Child, self).__init__()
+```
+* 合成
+
+21. python包管理工具
+
+* distutils
+distutils 是 python 标准库的一部分，这个库的目的是为开发者提供一种方便的打包方式， 同时为使用者提供方便的安装方式。
+
+我们经常使用的setup.py就是基于distutils实现的，然后通过setup.py就可以进行打包或者安装了
+
+* pip
+pip是目前最流行的Python包管理工具
 
 
+22. 框架
 
-
+通常是指让某件事情做起来更容易的软件包   
 
 
 
