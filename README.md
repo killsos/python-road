@@ -1,2 +1,9 @@
 # python-road
-learn prython the hard way  third edition
+
+
+### 1. 笨方法学pthon
+
+
+
+
+
