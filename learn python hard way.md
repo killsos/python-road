@@ -70,3 +70,110 @@
 
 * close()  关闭文件
 
+如果想向文件写内容 需要open加写权限  
+write read append   
+
+18. 函数  变量  代码
+
+def functionName(*args):
+  code
+
+剩余参数 *args
+
+函数名 变量名 规则：只要以字母 数字 以及下划线组成 但不能以数字开头   
+
+\* 剩余参数   
+
+19. seek()
+
+```python
+
+fileobject.seek(0)
+# seek函数的处理对象是字节而非行
+
+readline里边的代码会扫描文件的每一个字节  
+直到找到一个\n为止
+然后它停止读取文件
+```
+
+20. 函数的返回值
+
+return  如果没写 返回值None   
+
+21. 字符串处理库 ex25
+
+22. 逻辑关系
+
+and  or  not  !=   ==  >= <= True False   
+
+!= 是主流用法  <> 也是不等于 逐步废弃   
+
+23. if
+
+```python
+if logic:
+
+if logic:
+  code
+elif logic:
+  code
+else:
+  code
+```
+
+24. 数组
+
+[]  
+
+append()  添加   
+
+array[index]
+
+虚数 ordinal number
+
+基数  cardianl number
+
+25. for
+
+```python
+
+for i in array
+
+```
+
+26. range 
+
+range(0, 10) 0-9 10不包含
+
+27. while
+
+while logic:
+  code
+
+28. 中断
+
+```python
+form sys import exit
+
+exit(0)  正常退出
+
+exit(1)  错误退出
+```
+
+29. 字典 dictionary
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
