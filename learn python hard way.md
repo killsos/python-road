@@ -160,7 +160,25 @@ exit(0)  正常退出
 exit(1)  错误退出
 ```
 
-29. 字典 dictionary
+29. 字典 dictionary  dicts dict
+
+30. 面向对象语言 oop
+
+class __init__(self)   
+
+* self 在类的函数中 self指代被访问的对象或者实例的一个变量  
+
+* 继承 inheritance 指一个类可以继承另一个类的特性 和父子关系类似
+
+* 组合 composition 指一个类可以将别的类作为它的部件构建起来 
+
+* 属性 attribute 类的一个属性 来自于组合
+
+* is-a 描述继承关系 
+
+* has-a 描述组合关系
+
+
 
 
 

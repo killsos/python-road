@@ -1,0 +1,3 @@
+import mystudff
+
+mystudff.apple()
